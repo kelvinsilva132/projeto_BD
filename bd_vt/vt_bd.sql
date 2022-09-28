@@ -1,7 +1,7 @@
 -- cirurgia_Veterinaria
 
-CREATE DATABASE IF NOT EXISTS CR_veterinaria;
-use Cr_veterinaria;
+CREATE DATABASE IF NOT EXISTS veterinaria;
+use veterinaria;
 
 
 
