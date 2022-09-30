@@ -89,7 +89,7 @@ button{
 
 button a{
     color: rgb(143, 47, 187);
-    transition: 1s;
+    transition: 0.5s;
     font-size: 18px;
 }
 
